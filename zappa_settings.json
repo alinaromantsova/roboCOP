@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "main.app",
+        "aws_region": "eu-west-2",
+        "profile_name": "content-dev",
+        "project_name": "robocop",
+        "runtime": "python3.8",
+        "s3_bucket": "robocop-em1j9b95w"
+    }
+}
