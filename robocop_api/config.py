@@ -1,4 +1,4 @@
-USER_WHITELIST = dict(hello_world=['alina'])
+USER_WHITELIST = dict(ping=['alina'])
 
 
 class Config:
